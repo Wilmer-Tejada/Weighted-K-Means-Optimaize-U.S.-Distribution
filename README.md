@@ -1,6 +1,7 @@
-# Weighted-K-Means-Optimaize-U.S.-Distribution
+# Weighted-K-Means-Optimize-U.S.-Distribution
 This file contains instructions on what is contained within our project as well as
-how you can run the code.
+how you can run the code. Our main visual lives here:
+https://wilmer-tejada.shinyapps.io/Kmeans_USCities/
 
 Description
 ==================================
