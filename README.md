@@ -3,6 +3,8 @@ This file contains instructions on what is contained within our project as well 
 how you can run the code. Our main visual lives here:
 https://wilmer-tejada.shinyapps.io/Kmeans_USCities/
 
+![alt text](https://github.com/Wilmer-Tejada/Weighted-K-Means-Optimize-U.S.-Distribution/blob/main/Team181%20poster.png)
+
 Description
 ==================================
 
