@@ -3,8 +3,6 @@ This file contains instructions on what is contained within our project as well 
 how you can run the code. Our main visual lives here:
 https://wilmer-tejada.shinyapps.io/Kmeans_USCities/
 
-![alt text](https://github.com/Wilmer-Tejada/Weighted-K-Means-Optimize-U.S.-Distribution/blob/main/Team181%20poster.png)
-
 Description
 ==================================
 
@@ -13,6 +11,10 @@ leaflet. The shiny library is used to create the structure our application, whic
 and the back end. The front end allows users to interact with the back end by using sliders and switches. The backend is
 where our K-means model is built. The leaflet library is simply used to display the map visualization. Finally, the
 tidyverse library is used for data wrangling and creating the proper dataset to feed to our K-means model.
+
+Poster
+==================================
+![alt text](https://github.com/Wilmer-Tejada/Weighted-K-Means-Optimize-U.S.-Distribution/blob/main/Team181%20poster.png)
 
 Installation
 ==================================
